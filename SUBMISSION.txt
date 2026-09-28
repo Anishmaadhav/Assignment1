@@ -4,14 +4,14 @@
  Status         : COMPLETE - all checks passed
  GitHub user    : Anishmaadhav
  Repository     : https://github.com/Anishmaadhav/Assignment1
- Commit         : 91e0724  Initial commit
+ Commit         : b2ded04  added Anishmaadhav
  Commit author  : Anishmaadhav Jayapaul Premnaath
- Generated      : 2026-09-27 19:31:44
+ Generated      : 2026-09-27 19:32:54
 
  SELF CHECK
 ======================================================================
  CS 1430  -  ASSIGNMENT 1 SELF CHECK
- 2026-09-27 19:31:44   Anishmaadhav Jayapaul Premnaath
+ 2026-09-27 19:32:54   Anishmaadhav Jayapaul Premnaath
 ======================================================================
  [PASS] Python is installed                        3.14.7
  [PASS] main.py is in this folder                  
@@ -21,9 +21,9 @@
  [PASS] Your name shows up when the program runs   1 new line of output
  [PASS] Git is installed                           git version 2.50.1 (Apple Git-155)
  [PASS] This folder is a Git repository            
- [PASS] You have made a commit                     "Initial commit"
+ [PASS] You have made a commit                     "added Anishmaadhav"
  [PASS] This repo points at GitHub                 github.com/Anishmaadhav/Assignment1
- [PASS] Your commit is pushed to GitHub            91e0724
+ [PASS] Your commit is pushed to GitHub            b2ded04
 ======================================================================
 
  WHAT YOUR PROGRAM PRINTED
